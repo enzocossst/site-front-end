@@ -1,0 +1,60 @@
+body {
+   background-color: rgba(253, 221, 38, 0.329);
+   font-family:sans-serif;
+   font-weight:normal;
+   background-color: rgb(240, 248, 242);
+   
+
+}
+
+h1 {
+    display:block;
+    font-size: 2em;
+    font-weight:bold;
+    font-size: 40px;
+    color: rgb(20, 20, 20);
+    text-align: center;
+}
+
+
+
+h2 {
+    font-style:normal;
+    margin-left:italic;
+    font-size:30px;
+}
+
+h5 {
+    font-weight:lighter;
+    margin-top: 0mm;
+    margin-block-end:0rem;
+    
+}
+
+
+p  {
+    font-family: sans-serif;
+    
+        
+}  
+
+img {
+    max-width:950px;
+    max-height:950px;
+    width: auto;
+    height: auto;
+    position:relative;
+    float: right;
+    opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0
+} 
+
+input {
+    color: rgb(24, 58, 207);
+    cursor: pointer;
+    
+ }
+ 
